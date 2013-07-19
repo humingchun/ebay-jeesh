@@ -1,0 +1,19 @@
+{
+    "name": "ebay-jeesh"
+  , "description": "An modified Ender jeesh pack that can be embedded in eBay listing page."
+  , "version": "0.0.6"
+  , "homepage": "https://github.com/humingchun/ebay-jeesh"
+  , "author": "Michael Hu <humingchun@gmail.com> (http://humingchun.com)"
+  , "keywords": ["ebay", "jeesh", "ender", "dom", "jQuery"]
+  , "repository": {
+        "type": "git"
+      , "url": "https://github.com/humingchun/ebay-jeesh.git"
+    }
+  , "dependencies": {
+        "domready": "*"
+      , "ebay-qwery": "*"
+      , "ebay-bonzo": "*"
+      , "ebay-bean": "*"
+      , "ebay-morpheus": "*"
+    }
+}
